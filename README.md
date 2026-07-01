@@ -4,9 +4,9 @@ Build → Break → Secure on a self-authored MCP server.
 
 ## Group members
 - Nathan Wan
-- Samuel Aridi
+- Sammy Aridi
 - Garret Knapp
-- Steve Forenzi
+- Steve Ferenzi
 - James Sweat
 
 ## Files
