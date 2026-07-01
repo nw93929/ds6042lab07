@@ -3,9 +3,11 @@
 Build → Break → Secure on a self-authored MCP server.
 
 ## Group members
-- [Name — computing ID]
-- [Name — computing ID]
-- [Name — computing ID]
+- Nathan Wan
+- Samuel Aridi
+- Garret Knapp
+- Steve Forenzi
+- James Sweat
 
 ## Files
 - `my_server.py` — MCP server with a planted path-traversal vulnerability in `read_note`
